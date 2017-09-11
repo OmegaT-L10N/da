@@ -1,1 +1,1 @@
-# da
+# Danish OmegaT Localisation
